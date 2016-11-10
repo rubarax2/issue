@@ -1,0 +1,3 @@
+= Active Support -- Utility classes and Ruby extensions from Rails
+
+Active Support is a collection of utility classes and standa

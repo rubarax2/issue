@@ -1,0 +1,8 @@
+george:
+  name: "Curious George"
+  treasures: diamond, sapphire
+  parrot_sti_class: LiveParrot
+
+louis:
+  name: "King Louis"
+  tr

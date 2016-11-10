@@ -1,0 +1,4 @@
+Rails.root: <%= defined?(Rails) && Rails.respond_to?(:root) ? Rails.root : "unset" %>
+
+<% @traces.each do |name, trace| %>
+<% if

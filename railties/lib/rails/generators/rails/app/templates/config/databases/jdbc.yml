@@ -1,0 +1,2 @@
+# If you are using mssql, derby, hsqldb, or h2 with one of the
+# ActiveRecord JDBC adapters, install the appropriate driver, e.g

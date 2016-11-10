@@ -1,0 +1,8 @@
+blackbeard:
+  catchphrase: "Yar."
+  parrot: george
+
+redbeard:
+  catchphrase: "Avast!"
+  parrot: louis
+  created_on: "<%= 2.weeks

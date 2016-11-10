@@ -1,0 +1,3 @@
+class ApplicationController < ActionController::<%= options[:api] ? "API" : "Base" %>
+<%- unless options[:api] -%>
+  protect_fro

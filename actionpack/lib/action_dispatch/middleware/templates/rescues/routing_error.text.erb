@@ -1,0 +1,6 @@
+Routing Error
+
+<%= @exception.message %>
+<% unless @exception.failures.empty? %>
+Failure reasons:
+<% @exception.failures.each do

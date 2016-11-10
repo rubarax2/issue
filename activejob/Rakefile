@@ -1,0 +1,4 @@
+require 'rake/testtask'
+
+#TODO: add qu back to the list after it support Rails 5.1
+ACTIVEJOB_ADAPTERS = %w(async inline delayed_

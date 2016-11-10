@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+<% gemfile_entries.each do |gem| -%>
+<% if gem.comment -%>
+
+# <%= gem.comment %>
+<% end -%>
+<%= g

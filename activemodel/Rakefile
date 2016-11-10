@@ -1,0 +1,10 @@
+require 'rake/testtask'
+
+dir = File.dirname(__FILE__)
+
+task :default => :test
+
+task :package
+
+Rake::TestTask.new do |t|
+  t.libs

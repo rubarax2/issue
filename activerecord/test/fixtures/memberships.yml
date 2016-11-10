@@ -1,0 +1,6 @@
+membership_of_boring_club:
+  joined_on: <%= 3.weeks.ago.to_s(:db) %>
+  club: boring_club
+  member_id: 1
+  favourite: false
+  typ

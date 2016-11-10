@@ -1,0 +1,12 @@
+thirty_seven_signals:
+  id: 1
+  name: 37Signals
+  rating: 4
+
+TextDrive:
+  id: 2
+  name: TextDrive
+  rating: 4
+
+PlanetArgon:
+  id

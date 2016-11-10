@@ -1,0 +1,1 @@
+# Responsible for ensuring the cable connection is in good health by validating the heartbeat pings sent from the server, and at

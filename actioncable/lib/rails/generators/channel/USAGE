@@ -1,0 +1,4 @@
+Description:
+============
+    Stubs out a new cable channel for the server (in Ruby) and client (in CoffeeScript).
+    Pass the 

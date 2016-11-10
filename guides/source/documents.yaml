@@ -1,0 +1,7 @@
+-
+  name: Start Here
+  documents:
+    -
+      name: Getting Started with Rails
+      url: getting_started.html
+      description

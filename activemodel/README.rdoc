@@ -1,0 +1,4 @@
+= Active Model -- model interfaces for Rails
+
+Active Model provides a known set of interfaces for usage in model classes.
+They a

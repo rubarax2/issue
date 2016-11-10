@@ -1,0 +1,4 @@
+require 'rake/testtask'
+
+require File.expand_path(File.dirname(__FILE__)) + "/test/config"
+require File.expand_path(File.dirname

@@ -1,0 +1,7 @@
+# FrontBase versions 4.x
+#
+# Get the bindings:
+#   gem install ruby-frontbase
+#
+# Configure Using Gemfile
+# gem 'ruby-frontbase'

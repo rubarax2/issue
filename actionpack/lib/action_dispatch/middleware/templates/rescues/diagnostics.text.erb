@@ -1,0 +1,3 @@
+<%= @exception.class.to_s %><%
+  if @request.parameters['controller']
+%> in <%= @request.parameters['controller'].camelize %>Con

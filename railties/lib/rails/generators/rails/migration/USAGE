@@ -1,0 +1,3 @@
+Description:
+    Stubs out a new database migration. Pass the migration name, either
+    CamelCased or under_scored, and an opti

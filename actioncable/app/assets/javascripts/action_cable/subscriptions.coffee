@@ -1,0 +1,1 @@
+# Collection class for creating (and internally managing) channel subscriptions. The only method intended to be triggered by the

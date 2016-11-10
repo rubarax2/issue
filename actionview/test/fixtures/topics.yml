@@ -1,0 +1,6 @@
+futurama:
+  id: 1
+  title: Isnt futurama awesome?
+  subtitle: It really is, isnt it.
+  content: I like futurama
+  created_at: <%

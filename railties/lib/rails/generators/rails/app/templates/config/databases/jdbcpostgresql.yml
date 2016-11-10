@@ -1,0 +1,6 @@
+# PostgreSQL. Versions 9.1 and up are supported.
+#
+# Configure Using Gemfile
+# gem 'activerecord-jdbcpostgresql-adapter'
+#
+defau

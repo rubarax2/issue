@@ -1,0 +1,3 @@
+<% unless @exception.blamed_files.blank? %>
+  <% if (hide = @exception.blamed_files.length > 8) %>
+    <a href="#" onclick="retu

@@ -1,0 +1,5 @@
+# SQL Server (2005 or higher recommended)
+#
+# Install the adapters and driver
+#   gem install tiny_tds
+#   gem install activerec

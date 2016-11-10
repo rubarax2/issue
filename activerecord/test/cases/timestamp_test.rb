@@ -1,0 +1,5 @@
+require 'cases/helper'
+require 'support/ddl_helper'
+require 'models/developer'
+require 'models/computer'
+require 'models/owner'

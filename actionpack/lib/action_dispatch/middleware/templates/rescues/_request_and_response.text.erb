@@ -1,0 +1,6 @@
+<%
+  clean_params = @request.filtered_parameters.clone
+  clean_params.delete("action")
+  clean_params.delete("controller")
+
+  re

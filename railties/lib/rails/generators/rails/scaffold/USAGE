@@ -1,0 +1,3 @@
+Description:
+    Scaffolds an entire resource, from model and migration to controller and
+    views, along with a full test suit

@@ -1,0 +1,7 @@
+AllCops:
+  TargetRubyVersion: 2.3
+  DisabledByDefault: true
+
+# Two spaces, no tabs (for indentation).
+Style/IndentationWidth:
+  

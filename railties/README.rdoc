@@ -1,0 +1,5 @@
+= Railties -- Gluing the Engine to the Rails
+
+Railties is responsible for gluing all frameworks together. Overall, it:
+
+* handle

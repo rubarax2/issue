@@ -1,0 +1,3 @@
+= Action Mailer -- Easy email delivery and testing
+
+Action Mailer is a framework for designing email service layers. These layer

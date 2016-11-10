@@ -1,0 +1,4 @@
+Description:
+    Stubs out a new Rake task. Pass the namespace name, and a list of tasks as arguments.
+
+    This generates a tas

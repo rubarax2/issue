@@ -1,0 +1,5 @@
+{
+  "name": "actioncable",
+  "version": "5.0.0-rc1",
+  "description": "WebSocket framework for Ruby on Rails.",
+  "main": "lib/a

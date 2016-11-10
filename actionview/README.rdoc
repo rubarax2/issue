@@ -1,0 +1,4 @@
+= Action View
+
+Action View is a framework for handling view template lookup and rendering, and provides
+view helpers that assist

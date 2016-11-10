@@ -1,0 +1,7 @@
+# Please do not use this fixture without `set_fixture_class` as Post
+
+_fixture:
+  model_class: BadPostModel
+
+bad_welcome:
+  auth

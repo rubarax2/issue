@@ -1,0 +1,6 @@
+# Oracle/OCI 8i, 9, 10g
+#
+# Requires Ruby/OCI8:
+#  https://github.com/kubo/ruby-oci8
+#
+# Specify your database using any valid c

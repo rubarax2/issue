@@ -1,0 +1,5 @@
+<header>
+  <h1>
+    <%= @exception.class.to_s %>
+    <% if @request.parameters['controller'] %>
+      in <%= @request.parameters

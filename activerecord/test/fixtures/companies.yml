@@ -1,0 +1,11 @@
+first_client:
+  id: 2
+  type: Client
+  firm_id: 1
+  client_of: 2
+  name: Summit
+  firm_name: 37signals
+
+first_firm:
+  id: 1
+  ty

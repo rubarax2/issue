@@ -1,0 +1,5 @@
+require 'securerandom'
+
+module Digest
+  module UUID
+    DNS_NAMESPACE  = "k\xA7\xB8\x10\x9D\xAD\x11\xD1\x80\xB4\x00\xC0O\xD40\xC

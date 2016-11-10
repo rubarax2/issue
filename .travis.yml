@@ -1,0 +1,8 @@
+language: ruby
+sudo: false
+
+cache:
+  bundler: true
+  directories:
+    - /tmp/cache/unicode_conformance
+    - /tmp/beanstalkd-1.1

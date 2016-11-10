@@ -1,0 +1,4 @@
+<header>
+  <h1>
+    <%= @exception.cause.class.to_s %> in
+    <%= @request.parameters["controller"].camelize if @request.paramet

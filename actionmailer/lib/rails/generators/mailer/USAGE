@@ -1,0 +1,4 @@
+Description:
+============
+    Stubs out a new mailer and its views. Passes the mailer name, either
+    CamelCased or under_score

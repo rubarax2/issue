@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+# Profile require calls giving information about the time and the files that are called
+# when loading the p

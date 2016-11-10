@@ -1,0 +1,2 @@
+# Don't put *.swp, *.bak, etc here; those belong in a global ~/.gitignore.
+# Check out https://help.github.com/articles/ignoring

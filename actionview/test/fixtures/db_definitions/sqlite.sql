@@ -1,0 +1,7 @@
+CREATE TABLE 'companies' (
+  'id' INTEGER PRIMARY KEY NOT NULL,
+  'name' TEXT DEFAULT NULL,
+  'rating' INTEGER DEFAULT 1
+);
+
+CRE

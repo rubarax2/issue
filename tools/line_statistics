@@ -1,0 +1,5 @@
+# Class used to calculate LOC for a provided file list.
+#
+# Example:
+#   files = FileList["lib/active_record/**/*.rb"]
+#   CodeT

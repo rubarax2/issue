@@ -1,0 +1,5 @@
+.bundle/
+log/*.log
+pkg/
+<% unless options[:skip_test] && options[:dummy_path] == 'test/dummy' -%>
+<%= dummy_path %>/db/*.sqlite3

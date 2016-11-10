@@ -1,0 +1,3 @@
+= Active Record -- Object-relational mapping in Rails
+
+Active Record connects classes to relational database tables to establish

@@ -1,0 +1,7 @@
+witty_retort:
+  id: 1
+  topic_id: 1
+  developer_id: 1
+  content: Birdman is better!
+  created_at: <%= 6.hours.ago.to_s(:db) %>
+ 

@@ -1,0 +1,3 @@
+blackbeard_to_redbeard:
+  pirate_id: <%= ActiveRecord::FixtureSet.identify(:blackbeard) %>
+  target_id: <%= ActiveRecord::Fixtur

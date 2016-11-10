@@ -1,0 +1,5 @@
+Description:
+    Stubs out a new helper. Pass the helper name, either CamelCased
+    or under_scored.
+
+    To create a helper wi

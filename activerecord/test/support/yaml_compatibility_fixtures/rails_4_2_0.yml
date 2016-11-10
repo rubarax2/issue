@@ -1,0 +1,6 @@
+--- !ruby/object:Topic
+raw_attributes:
+  id: 1
+  title: The First Topic
+  author_name: David
+  author_email_address: david@loudt
